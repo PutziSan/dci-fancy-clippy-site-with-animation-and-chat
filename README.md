@@ -5,7 +5,9 @@ Build a fancy website with clip-path, animations and a chat-window.
 
 ![](dci-clippy-animation-challenge.gif)
 
-Build a website from this template https://thedrawingroomcreative.com/, but use your own content (e.g. your own imaginary brand or page about yourself). Start with the desktop view
+> https://thedrawingroomcreative.com/
+
+Build a website from the template above, but use your own content (e.g. your own imaginary brand or page about yourself). Start with the desktop view.
 
 The following elements are important:
 - Positioning with flex/grid
@@ -23,10 +25,14 @@ After you have implemented the above layout, add a chatbot area (static html onl
 
 ![](dci-fancy-chatbot-template.png)
 
+> https://lokalise.com/
+
 The following elements are important:
-- Should be at the bottom right of your page (hin: absolute positioning)
+- Should be at the bottom right of your page (hint: absolute positioning)
 - The triangle at the bottom left of the message (hint: css-pseudo-elements)
 - Styled input
+
+
 
 ## challenge - bonus part - make it mobile
 
