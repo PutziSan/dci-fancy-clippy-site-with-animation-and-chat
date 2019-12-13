@@ -13,7 +13,7 @@ The following elements are important:
 - Positioning with flex/grid
 - Clipped hero-image (hint: clip-path) => https://www.sarasoueidan.com/blog/css-svg-clipping/
 - Contact at the top-right => animate on hover (hint: transform/transition)
-- Button => animate on hover (hint: css-animation with keyframe)
+- Button => animate on hover (hint: css-animation with keyframe) => example https://codepen.io/putzisan/pen/vYEXYEw
 
 NOT important:
 - Video in behind the clip-path (use a static image, eg from https://www.pexels.com/)
