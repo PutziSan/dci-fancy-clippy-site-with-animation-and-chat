@@ -11,7 +11,7 @@ Build a website from the template above, but use your own content (e.g. your own
 
 The following elements are important:
 - Positioning with flex/grid
-- Clipped hero-image (hint: clip-path)
+- Clipped hero-image (hint: clip-path) => https://www.sarasoueidan.com/blog/css-svg-clipping/
 - Contact at the top-right => animate on hover (hint: transform/transition)
 - Button => animate on hover (hint: css-animation with keyframe)
 
